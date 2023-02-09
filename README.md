@@ -2,10 +2,6 @@
 
 ##Reports
 
-https://www.ncsc.gov.uk/section/keep-up-to-date/reports-advisories
-
-https://www.ncsc.gov.uk/section/keep-up-to-date/threat-reports
-
 https://www.ncsc.gov.uk/report/threat-report-27-january-2023
 
 https://www.ncsc.gov.uk/report/threat-report-13th-january-2023
