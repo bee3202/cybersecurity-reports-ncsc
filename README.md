@@ -726,7 +726,7 @@ https://www.ncsc.gov.uk/pdfs/news/drown-vulnerability.pdf
 
 https://www.ncsc.gov.uk/pdfs/news/major-operators-join-forces-develop-secure-communications.pdf
 
-## Blog spots in pdf
+## Blog posts in pdf
 
 https://www.ncsc.gov.uk/pdfs/blog-post/-do-what-i-mean-----time-to-focus-on-developer-intent.pdf
 
